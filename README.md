@@ -1,4 +1,4 @@
-# Dnd_bot
+# DnD_bot
 This a telegram bot for convenient DnD play.
 
 ## Installation
